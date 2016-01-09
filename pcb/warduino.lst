@@ -1,0 +1,14 @@
+eeschema (2013-jul-07)-stable  >> Creation date: Čt 25. prosinec 2014, 15:07:41 CET
+#Cmp ( order = Reference )
+| D1         LED         
+| IC1        ATMEGA328-P 
+| R?         R           
+#End Cmp
+
+#Cmp (dle hodnoty)
+| LED          D1        
+| ATMEGA328-P  IC1       
+| R            R?        
+#Konec Cmp
+
+#Konec seznamu
