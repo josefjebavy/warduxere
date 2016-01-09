@@ -14,3 +14,6 @@ This device is designed for wireless comunication and long run on battery.
 directories contain
 - arduino - example program for arduino - wiring language
 - pcb - scheme in Kicad and pcb
+
+
+![Scheme](warduino-scheme.png)
