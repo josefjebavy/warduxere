@@ -2,6 +2,8 @@ Warduino
 ===========================================
 Wireless Arduino with low power consumption
 
+warduino been awarded for the design of electronic journals [PE-AR](http://www.aradio.cz/)
+
 ### About ###
 This project is open-source alternative for other proprietary platform.
 
@@ -15,5 +17,13 @@ directories contain
 - arduino - example program for arduino - wiring language
 - pcb - scheme in Kicad and pcb
 
-
+## Scheme
 ![Scheme](warduino-scheme.png)
+
+## 3D view of device
+
+![3D view top](warduino1.png)
+
+![3D view bottom](warduino2.png)
+
+[documentation warduino](http://multi.xeres.cz/warduino)
