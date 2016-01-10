@@ -1,0 +1,248 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Pá 9. leden 2015, 09:45:13 CET
+
+BeginCmp
+TimeStamp = /54A06717;
+Reference = 1w-data1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A06708;
+Reference = 1w-gnd1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A066F9;
+Reference = 1w-vcc1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA9450;
+Reference = A2;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8B62;
+Reference = A3;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8B8B;
+Reference = A4;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8B91;
+Reference = A5;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8BEC;
+Reference = ADC6;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8C06;
+Reference = ADC7;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F01A4;
+Reference = BAT+1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F01B3;
+Reference = BAT-1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = /549ED96E;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549ED97D;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549ED99B;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54A95933;
+Reference = C4;
+ValeurCmp = 10u;
+IdModule  = c_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549C1408;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8BDA;
+Reference = D5;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8BE0;
+Reference = D6;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8BE6;
+Reference = D7;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8BA6;
+Reference = D8;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /54AA8BAC;
+Reference = D9;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDxx;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EDA8C;
+Reference = IC2;
+ValeurCmp = ATMEGA328P-A;
+IdModule  = TQFP32;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EDB23;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = GS3;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EEE5B;
+Reference = OP1;
+ValeurCmp = MCP6042;
+IdModule  = SO8E;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EDB14;
+Reference = P1;
+ValeurCmp = UART-USB;
+IdModule  = PINHEAD1-6x;
+EndCmp
+
+BeginCmp
+TimeStamp = /549C19FF;
+Reference = R1;
+ValeurCmp = 330R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EDF65;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EE87F;
+Reference = R3;
+ValeurCmp = 4k7;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EF0A4;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EF095;
+Reference = R5;
+ValeurCmp = 10k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EF0B3;
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EFE60;
+Reference = term+1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDx;
+EndCmp
+
+BeginCmp
+TimeStamp = /549EFE6F;
+Reference = term-1;
+ValeurCmp = CONN_1;
+IdModule  = 1PIN_SMDx;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F240C;
+Reference = U1;
+ValeurCmp = MCP1700 3.3V;
+IdModule  = sot23;
+EndCmp
+
+BeginCmp
+TimeStamp = /549F0616;
+Reference = WIRELESS1;
+ValeurCmp = SI4432;
+IdModule  = si4432;
+EndCmp
+
+EndListe
