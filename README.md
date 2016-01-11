@@ -2,8 +2,7 @@ Warduino
 ===========================================
 Wireless Arduino with low power consumption
 
-warduino been awarded for the design of electronic journals [PE-AR](http://www.aradio.cz/)
-
+Warduino was awarded the prize in a magazine for the design of electronic journals [PE-AR](http://www.aradio.cz/). 
 ### About ###
 This project is open-source alternative for other proprietary platform.
 
@@ -21,7 +20,7 @@ directories contain
 ![Scheme](warduino-scheme.png)
 
 ## 3D view of device
-
+First model from year 2014.
 ![3D view top](warduino1.png)
 
 ![3D view bottom](warduino2.png)
