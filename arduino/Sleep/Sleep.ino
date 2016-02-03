@@ -1,7 +1,7 @@
 
 
 /*
- Warduino - Sleep
+ Warduxere - Sleep
  Example of sleeping and saving power
  
  This example code is in the public domain.

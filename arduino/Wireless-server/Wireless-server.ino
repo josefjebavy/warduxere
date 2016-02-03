@@ -1,11 +1,11 @@
 /*
- Warduino - Wireless server
+ Warduxere - Wireless server
  Example of wireles comunication.
- Tested on Warduino: Atmega328 and SI4432
+ Tested on Warduxere: Atmega328 and SI4432
  
  This example code is in the public domain.
  
- about Warduino: http://multi.xeres.cz/programovani/wireless-arduino-low-power-consumption
+ about Warduxere: http://multi.xeres.cz/programovani/wireless-arduino-low-power-consumption
  
  
  */

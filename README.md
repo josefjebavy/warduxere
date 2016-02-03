@@ -2,7 +2,7 @@ Warduino
 ===========================================
 Wireless Arduino with low power consumption
 
-Warduino was awarded the prize in a magazine for the design of electronic journals [PE-AR](http://www.aradio.cz/). 
+Warduxere (old name was Warduino) was awarded the prize in a magazine for the design of electronic journals [PE-AR](http://www.aradio.cz/). 
 ### About ###
 This project is open-source alternative for other proprietary platform.
 
@@ -17,13 +17,13 @@ directories contain
 - pcb - scheme in Kicad and pcb
 
 ## Scheme
-![Scheme](warduino-scheme.png)
+![Scheme](warduxere-scheme.png)
 
 ## 3D view of device
 First model from year 2014.
 
-![3D view top](warduino1.png)
+![3D view top](warduxere1.png)
 
-![3D view bottom](warduino2.png)
+![3D view bottom](warduxere2.png)
 
-[documentation warduino](http://multi.xeres.cz/warduino)
+[warduxere documentation](http://multi.xeres.cz/warduxere)

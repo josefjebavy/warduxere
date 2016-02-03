@@ -1,5 +1,5 @@
 /*
-  Warduino - Battery
+  Warduxere - Battery
  
  Get battery status 
  This example code is in the public domain.
