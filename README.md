@@ -1,4 +1,4 @@
-Warduino
+Warduxere
 ===========================================
 Wireless Arduino with low power consumption
 
@@ -26,4 +26,4 @@ First model from year 2014.
 
 ![3D view bottom](warduxere2.png)
 
-[warduxere documentation](http://multi.xeres.cz/warduxere)
+[warduxere documentation](https://blog.josefjebavy.cz/warduxere)
