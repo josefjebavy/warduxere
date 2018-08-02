@@ -26,4 +26,12 @@ First model from year 2014.
 
 ![3D view bottom](warduxere2.png)
 
+
+
+warduxere DPS v2
+![3D view warduxere DPS v2](warduxere-dps-v2.png)
+
+
+
+
 [warduxere documentation](https://blog.josefjebavy.cz/warduxere)
